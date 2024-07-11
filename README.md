@@ -1,1 +1,1 @@
-# mr_pdb_restraint_comparator
+# nmr_pdb_restraint_mapper
