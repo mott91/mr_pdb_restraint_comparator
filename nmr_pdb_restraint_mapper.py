@@ -172,4 +172,4 @@ def main(include_atom_names=False):
         print(f"An error occurred while writing to the output file: {e}")
 
 if __name__ == "__main__":
-    main(include_atom_names=False)  # Set to True to include atom names in the output
+    main(include_atom_names=False)  # Set to True to include atom names in the output # useful for debugging
